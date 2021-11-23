@@ -4,7 +4,7 @@
         "vid": "0x3825",
         "sn": "A8ODN02468",
         "mac1": "0011322CA603",
-		"mac2": "0011322CA604"
+		    "mac2": "0011322CA604"
     },
     "synoinfo": {},
     "ramdisk_copy": {},

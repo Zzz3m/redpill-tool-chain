@@ -3,9 +3,12 @@
         "pid": "0x3825",
         "vid": "0x17EF",
         "sn": "A8ODN02468",
-        "netif_num": "2",
+        "netif_num": "4",
         "mac1": "0011322CA603",
-		    "mac2": "0011322CA604"
+		    "mac2": "0011322CA604",
+        "mac3": "0011322CA605",
+        "mac4": "0011322CA606"
+
     },
     "synoinfo": {},
     "ramdisk_copy": {},

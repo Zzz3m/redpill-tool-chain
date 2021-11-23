@@ -1,10 +1,11 @@
 {
     "extra_cmdline": {
-        "pid": "0x17EF",
-        "vid": "0x3825",
+        "pid": "0x3825",
+        "vid": "0x17EF",
         "sn": "A8ODN02468",
+        "netif_num": "2",
         "mac1": "0011322CA603",
-		"mac2": "0011322CA604"
+		    "mac2": "0011322CA604"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
